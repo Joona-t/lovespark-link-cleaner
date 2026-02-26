@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>LoveSpark Link Cleaner</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@300;400;500&family=Press+Start+2P&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="popup.css">
+</head>
+<body>
+  <div class="popup-container">
+
+    <header class="popup-header">
+      <img src="mascot.png" alt="Sparky — LoveSpark mascot" class="mascot">
+      <div class="header-text">
+        <span class="header-title">LoveSpark</span>
+        <span class="header-sub">Link Cleaner</span>
+      </div>
+    </header>
+
+    <section class="status-section">
+      <div id="status-icon" class="status-icon">✨</div>
+      <div id="status-text" class="status-text">Links are clean!</div>
+      <p id="cute-msg" class="cute-msg">Clean links, clear mind 💕</p>
+      <label class="toggle-wrap">
+        <input type="checkbox" id="main-toggle" checked>
+        <span class="toggle-track"><span class="toggle-thumb"></span></span>
+      </label>
+    </section>
+
+    <section class="stats-section">
+      <div class="stat-box">
+        <div id="stat-today" class="stat-num">0</div>
+        <div class="stat-label">stripped today</div>
+      </div>
+      <div class="stat-divider"></div>
+      <div class="stat-box">
+        <div id="stat-total" class="stat-num">0</div>
+        <div class="stat-label">stripped total</div>
+      </div>
+    </section>
+
+    <footer class="popup-footer">
+      <span class="footer-brand">LoveSpark Suite 💕</span>
+    </footer>
+
+  </div>
+  <script src="popup.js"></script>
+</body>
+</html>

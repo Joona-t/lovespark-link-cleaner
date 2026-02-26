@@ -1,0 +1,8 @@
+{
+  "extName": {
+    "message": "LoveSpark Link Cleaner"
+  },
+  "extDescription": {
+    "message": "Strips tracking parameters from URLs automatically. Clean links, no data collection, no tracking."
+  }
+}

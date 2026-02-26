@@ -1,0 +1,8 @@
+{
+  "extName": {
+    "message": "LoveSpark Link Cleaner"
+  },
+  "extDescription": {
+    "message": "Automatycznie usuwa parametry śledzenia z URL-i. Czyste linki, bez zbierania danych, bez śledzenia."
+  }
+}

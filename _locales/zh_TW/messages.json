@@ -1,0 +1,8 @@
+{
+  "extName": {
+    "message": "LoveSpark Link Cleaner"
+  },
+  "extDescription": {
+    "message": "自動移除URL中的追蹤參數。乾淨連結，不收集資料，不追蹤。"
+  }
+}

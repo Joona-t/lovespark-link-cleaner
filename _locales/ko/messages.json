@@ -1,0 +1,8 @@
+{
+  "extName": {
+    "message": "LoveSpark Link Cleaner"
+  },
+  "extDescription": {
+    "message": "URL에서 추적 매개변수를 자동으로 제거합니다. 깨끗한 링크, 데이터 수집 없음, 추적 없음."
+  }
+}

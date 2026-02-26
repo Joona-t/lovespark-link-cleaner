@@ -1,0 +1,8 @@
+{
+  "extName": {
+    "message": "LoveSpark Link Cleaner"
+  },
+  "extDescription": {
+    "message": "Eemaldab jälgimisparameetrid URL-idest automaatselt. Puhtad lingid, andmeid ei koguta, jälgimist ei toimu."
+  }
+}
