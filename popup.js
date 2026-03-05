@@ -162,3 +162,6 @@ async function init() {
 }
 
 init();
+
+/* ── Author / Ko-fi Footer ── */
+document.body.insertAdjacentHTML('beforeend', LoveSparkFooter.render());
